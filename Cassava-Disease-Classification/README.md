@@ -1,4 +1,4 @@
-![alt text](images/1-Cassava.png)
+![alt text](../images/1-Cassava.png)
 
 Join us for our 1st community coding adventure in Deep Learning! Just bring your curiosity and get ready to meet our growing community 😀 We are using Deep Learning to perform Cassava disease classification and help farmers identify diseased plants.
 
