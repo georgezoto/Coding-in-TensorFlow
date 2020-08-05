@@ -14,6 +14,8 @@ Friday, 7/31 7:30 PM EST
 We will annotate the emotion behind each sentence in an episode of the popular TV show, The Big Bang Theory! Later on we will use these annotations to detect emotions using Deep Learning.  
 https://www.meetup.com/Deep-Learning-Adventures/events/272091390  
 
+![alt text](images/2-The-Big-Bang-Theory-1.png)
+
 ![alt text](images/3-Friends.png)
 - Deep Learning Adventures - Community coding session 3 😀  
 Friday, 8/7 7:30 PM EST  
